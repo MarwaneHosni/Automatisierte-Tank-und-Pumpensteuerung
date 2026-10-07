@@ -1,0 +1,29 @@
+# Interner Bereich (Werkzeuge, Simulation, Prüfungen, technische Doku)
+# wird NICHT veröffentlicht.
+intern/
+
+# Build-Ausgaben
+build/
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.bc
+*.ll
+*.hwmap.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
+*.tmp
