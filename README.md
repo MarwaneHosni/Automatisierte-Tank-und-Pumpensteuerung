@@ -6,17 +6,6 @@ Steuerung überwacht den Füllstand, schaltet **Magnetventile** und das
 
 ![Ablauf der Anlage](bilder/demo.gif)
 
-## Warum ich das gemacht habe
-
-Ich interessiere mich sehr für **Elektrotechnik und Steuerungstechnik**. Weil
-ich noch keine eigene Anlage habe, habe ich diese Steuerung am PC aufgebaut und
-durchgetestet – um zu verstehen, wie aus den Signalen von **Sensoren** die
-Befehle für **Ventile und Motoren** werden und wie man gefährliche Zustände
-sicher verhindert.
-
-An echter Hardware möchte ich das praktisch lernen: **verdrahten, messen und
-in Betrieb nehmen**.
-
 ## Die Anlage
 
 - **Tank** mit Zulauf und Ablauf
@@ -83,16 +72,6 @@ Meldeleuchten und einen Verlauf des Füllstands. Über Tasten gibt es Start,
 Stop, Reset, AUTO/HAND und Not-Aus.
 
 ![Prozessbild](bilder/prozessbild.png)
-
-## Was ich schon verstehe – und was ich lernen will
-
-**Verstanden (am Modell):** wie man Signale einliest und auswertet, wie eine
-Ablaufsteuerung aufgebaut ist, wie Verriegelungen und Meldungen mit Quittierung
-funktionieren und wie man eine SPS-Programmierung nach **IEC 61131-3** plant.
-
-**Das möchte ich praktisch lernen:** Schaltschrankbau und Verdrahtung
-nach Stromlaufplan, Arbeiten am Sicherheitsstromkreis, Messungen mit dem
-Multimeter und die Inbetriebnahme realer Anlagen.
 
 ---
 
